@@ -19,3 +19,8 @@ git push -u origin main
 git remote add origin git@github.com:jiunnliry/study_code_repo.git
 git branch -M main
 git push -u origin main
+
+可是你却说，诗人是酒神的神圣祭司
+For the night is dark and full of terros.
+在神圣的黑夜里，他走遍大地
+I am hers and she is mine
